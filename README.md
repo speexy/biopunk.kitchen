@@ -11,3 +11,4 @@
 - activate <Header/> in Layout.js
 - activate basic links in Link-component (index.js)
 - change padding-bottom of section-paragraphs back to 40px (index.module.css)
+- add style for section links that appear at the bottom of the paragraph (prior styles were removed in favor of inline links in markdownified paragraphs)

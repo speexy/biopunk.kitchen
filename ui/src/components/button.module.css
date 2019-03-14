@@ -4,6 +4,8 @@
 
 
 .button{
+  display: block;
+  margin: 0 auto;
   color: white;
   background: linear-gradient(315deg, orange, pink, blue);
   background-size: 200%;
