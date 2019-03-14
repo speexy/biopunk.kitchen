@@ -46,11 +46,11 @@ sections:
       url: 'http://eepurl.com/dJvaA6'
     text: >-
       From years of experiences in facilitating our community to face urgent
-      issues of the time, concerning them, we realized it is needed something
-      new. Is it climate change, the loss of biodiversity, chances and risks of
-      new technologies & digitization, health & food or equality, the
-      understanding of living systems and their interaction with our
-      surroundings became more and more important. 
+      issues of the time, concerning it, we realized it is needed something new.
+      Is it climate change, the loss of biodiversity, chances and risks of new
+      technologies & digitization, health & food or equality, the understanding
+      of living systems and their interaction with our surroundings became more
+      and more important. 
 
 
       Hence, our answer was to design a place that offers an interactive
@@ -64,7 +64,8 @@ sections:
       Our DIY bio-facilities @machBar are embedded into the community of a
       self-governed cultural center; freiLand-Potsdam. Here are acting more than
       50 stakeholder on an areal of 12 000 square meters and 5 buildings, which
-      mission it is to empower young people to form a sustainable future.
+      mission it is to empower young people to actively form a sustainable
+      future.
 
 
       The NGO Science Shop Potsdam funded the machBar Potsdam fabLab in 2012
@@ -74,10 +75,10 @@ sections:
       networks for open science, open education & open innovation. Within a
       research project to regional strategies for bio based economy (DiReBio)
       funded by the German Ministry for Education and Science (BMBF), the
-      Science Shop Potsdam is partner with University Potsdam and Leibniz
+      Science Shop Potsdam is partner with the University Potsdam and Leibniz
       Institute for Agricultural Engineering and Bioeconomy. Here we utilize the
       bio-lab facilities to include kids and young people in a future designing
-      session to a regional bio-based economy.
+      session for a regional bio-based economy.
 
 
       Follow us
