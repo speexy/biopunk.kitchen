@@ -52,7 +52,7 @@
 
 .section {
   background-color: white;
-  padding-bottom: 40px;
+  padding-bottom: 10px; /*back to 40px when links are active*/
 }
 
 .section p {
