@@ -1,5 +1,6 @@
 import React from 'react';
 import { graphql } from 'gatsby';
+import ReactMarkdown from 'react-markdown';
 import Layout from '../layouts/Layout';
 import Instagram from '../components/social/Instagram';
 import Facebook from '../components/social/Facebook';
@@ -25,7 +26,7 @@ const Link = ( props ) => {
 const Section = ( props ) => {
     return ( <section className={styles.section} key={props.index}>
         <Hero image={props.image} title={props.title} color={props.color} style="home"/>
-        <p>{props.text}</p>
+        <ReactMarkdown source={props.text}/>
         { props.button && <Button label={props.link.label}/>}
         { props.link && <Link button={props.link.button} label={props.link.label} url={props.link.url}/>}
     </section>
