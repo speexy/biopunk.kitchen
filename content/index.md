@@ -30,14 +30,14 @@ sections:
       facilities for indoor and outdoor; mobile and modular.
     title: equipment
   - color: orange
-    image: /media/kitchen.jpg
+    image: /media/pilzlab.jpg
     link:
       button: false
       label: All Projects
       url: /projects
     text: >-
-      Direct trade unicorn dreamcatcher marfa meh letterpress lo-fi. Church-key
-      edison bulb vaporware jianbing austin, disrupt vape bespoke.
+      You can build your own project, but look here what variety of actions
+      already exists. The range is from
     title: projects
   - color: darkBlue
     image: /media/openingtalk.jpg
