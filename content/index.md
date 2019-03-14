@@ -9,16 +9,13 @@ sections:
       label: More about us
       url: /about
     text: >-
-      Here you have space and tools for experimentation, co-design bio-based
-      prototypes & have workshops or classes to bio-related topics. Accomplish
-      your own ideas or cooperate with a diversity of scientist, artist,
-      activists, geeks or other enthusiasts, from around. As part of the
-      machBar-Potsdam facilities you can combine here bio-lab tools with digital
-      prototyping tools, usual available in fab labs. Connect with us on social
-      media over forum and newsletter or just come over!
-
-
-      \#Explore #Grow #Make
+      Here you will find the space and tools for experimentation & for designing bio-based
+      prototypes for a sustainable future. Accomplish your own ideas or
+      cooperate with scientist, artist, activists, geeks and other enthusiasts,
+      arround. As part of the machBar-Potsdam facilities you can combine
+      biodesign tools from molecular workbenches to urban gardening systems,
+      with digital prototyping tools typically available in fab labs. #Explore!,
+      #Grow!, #Make!
     title: kitchen
   - color: blue
     image: /media/microscopes.jpg
@@ -39,9 +36,9 @@ sections:
       label: All Projects
       url: /projects
     text: >-
-      You can build your own project, but a variety of active groups already
-      exists. These range from growing fungi and insects to fermentation to
-      aquaponic gardening and digital beekeeping.
+      You can build your own project, but a variety of active groups
+      already exists. These range from growing fungi and insects to
+      fermentation to aquaponic gardening and digital beekeeping.
     title: projects
   - color: darkBlue
     image: /media/openingtalk.jpg
@@ -53,33 +50,32 @@ sections:
       From years of experiences in facilitating our community to face urgent
       issues of the time, concerning it, we realized something new is needed.
       Climate change, the loss of biodiversity, chances and risks of new
-      technologies & digitization, health & food, equality - for all these the
-      understanding of living systems and their interaction with our
-      surroundings become more and more important.
+      technologies & digitization, health & food, equality - for all these the understanding
+      of living systems and their interaction with our surroundings become more
+      and more important.
 
 
       Hence, our answer is to design a place that offers an interactive
       environment and supports creativity & collaboration for actively framing a
       sustainable future within a bio-based society. We upgraded our
       [machBar-Potsdam](https://machbar-potsdam.de/) (fabLab) in Oct. 2018 with
-      open bio-lab facilities to cultivate organisms and grow own biological raw
-      material, design bio-based ideas and build prototypes.
+      open bio-lab facilities to cultivate organisms and grow own biological
+      raw material, design bio-based ideas and build prototypes.
 
 
       Our DIY bio-facilities @machBar are embedded in the community of a
       self-governed cultural center;
-      [freiLand-Potsdam](https://www.freiland-potsdam.de/#). Here more than 50
-      stakeholder are acting on an areal of 12 000 square meters and 5
-      buildings, whose mission it is to empower young people to actively create
-      a sustainable future.
+      [freiLand-Potsdam](https://www.freiland-potsdam.de/#). Here more than 50 stakeholder are acting on an areal of 12 000 square meters and 5
+      buildings, whose mission it is to empower young people to actively create a
+      sustainable future.
 
 
       The NGO Science Shop Potsdam funded the machBar Potsdam fabLab in 2012
       @freiLand and is since the legally responsible entity. In addition the
       Science Shop acts as a local network HUB for the freiLand community to
-      regional partners in academia, tech, arts & economy (SME) as well as
-      global networks for open science, open education & open innovation. Within
-      a research project to regional strategies for bio-based economy
+      regional partners in academia, tech, arts & economy (SME) as well as global
+      networks for open science, open education & open innovation. Within a
+      research project to regional strategies for bio-based economy
       ([DiReBio](https://direbio.de/)) funded by the German Ministry for
       Education and Science (BMBF), the Science Shop Potsdam is partner with the
       University Potsdam and Leibniz Institute for Agricultural Engineering and
@@ -91,4 +87,3 @@ sections:
       Follow us
     title: Community
 ---
-
