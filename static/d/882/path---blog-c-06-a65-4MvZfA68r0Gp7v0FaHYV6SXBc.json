@@ -1,0 +1,1 @@
+{"data":{"thisPage":{"frontmatter":{"title":"blog"}},"posts":{"edges":[{"node":{"fields":{"slug":"/blog/post1"},"frontmatter":{"title":"post 1","excerpt":"hello world"}}},{"node":{"fields":{"slug":"/blog/post2"},"frontmatter":{"title":"post 2","excerpt":"foo bar"}}}]}},"pageContext":{"slug":"/blog"}}

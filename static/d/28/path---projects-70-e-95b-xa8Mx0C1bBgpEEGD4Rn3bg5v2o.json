@@ -1,0 +1,1 @@
+{"data":{"thisPage":{"frontmatter":{"title":"Projects"}},"posts":{"edges":[{"node":{"fields":{"slug":"/projects/projectA"},"frontmatter":{"title":"post 1"}}},{"node":{"fields":{"slug":"/projects/projectB"},"frontmatter":{"title":"post 2"}}}]}},"pageContext":{"slug":"/projects"}}
