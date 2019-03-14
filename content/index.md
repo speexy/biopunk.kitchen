@@ -25,9 +25,9 @@ sections:
       url: /equipment
     text: >-
       The bioPUNK.kitchen is a 30m² studio with basic kitchen equipment from a
-      grinder to a micro-wave combined with specific biology lab tools, like a
-      DNA workbench, digital Microscopes or biological cultivation facilities
-      for indoor and outdoor.
+      grinder to a micro-wave, but combined with specific biology lab tools,
+      like a DNA workbench, digital Microscopes or biological cultivation
+      facilities for indoor and outdoor; mobile and modular.
     title: equipment
   - color: orange
     image: /media/kitchen.jpg
