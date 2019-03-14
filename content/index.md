@@ -10,11 +10,9 @@ sections:
       url: /about
     text: >-
       Here you will find the space and tools for experimentation & for designing bio-based
-      prototypes for a sustainable future. Accomplish your own ideas or
-      cooperate with scientist, artist, activists, geeks and other enthusiasts,
-      arround. As part of the machBar-Potsdam facilities you can combine
-      biodesign tools from molecular workbenches to urban gardening systems,
-      with digital prototyping tools typically available in fab labs. #Explore!,
+      prototypes. Accomplish your own ideas or
+      cooperate with scientist, artist, activists, geeks and other enthusiasts. As part of the machBar-Potsdam facilities you can combine
+      bio-design tools with digital prototyping tools typically available in fab labs. Connect with us on social media over forum and newsletter or just come over. #Explore!,
       #Grow!, #Make!
     title: kitchen
   - color: blue
