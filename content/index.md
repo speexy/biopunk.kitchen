@@ -37,7 +37,8 @@ sections:
       url: /projects
     text: >-
       You can build your own project, but look here what variety of actions
-      already exists. The range is from
+      already exists. The range is from growing fungi and insects over
+      fermentation to aquaponic gardening and digital beekeeping.
     title: projects
   - color: darkBlue
     image: /media/openingtalk.jpg
