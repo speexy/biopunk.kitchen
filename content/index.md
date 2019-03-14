@@ -24,19 +24,21 @@ sections:
       label: All our Equipment
       url: /equipment
     text: >-
-      Jack Tar Spanish Main heave to galleon dead men tell no tales salmagundi
-      run a rig Plate Fleet rum port. Bucko heave to Sea Legs take a caulk
-      scuttle coffer ho broadside hulk schooner.
+      The bioPUNK.kitchen is a 30m² studio with basic kitchen equipment from a
+      grinder to a micro-wave, but combined with specific biology lab tools,
+      like a DNA workbench, digital Microscopes or biological cultivation
+      facilities for indoor and outdoor; mobile and modular.
     title: equipment
   - color: orange
-    image: /media/kitchen.jpg
+    image: /media/pilzlab.jpg
     link:
       button: false
       label: All Projects
       url: /projects
     text: >-
-      Direct trade unicorn dreamcatcher marfa meh letterpress lo-fi. Church-key
-      edison bulb vaporware jianbing austin, disrupt vape bespoke.
+      You can build your own project, but look here what variety of actions
+      already exists. The range is from growing fungi and insects over
+      fermentation to aquaponic gardening and digital beekeeping.
     title: projects
   - color: darkBlue
     image: /media/openingtalk.jpg
