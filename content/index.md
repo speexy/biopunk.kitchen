@@ -47,70 +47,37 @@ sections:
     text: >-
       From years of experiences in facilitating our community to face urgent
       issues of the time, concerning them, we realized it is needed something
-      new. Is it climate change, the loss of biodiversity,chances and risks of
-      new technologies & digitalization, health & food or equality, the
+      new. Is it climate change, the loss of biodiversity, chances and risks of
+      new technologies & digitization, health & food or equality, the
       understanding of living systems and their interaction with our
-      sourroundings became more and more important. 
+      surroundings became more and more important. 
 
 
-      Hence, designing a place that offers an interactive environment and
-      supports creativity & collaboration for actively creating a sustainable
-      future within a bio based society, was our answer. So we upgraded our
-      machBar-Potsdam (fabLab), with open biolab facilities, to cultivate
-      organisms and grow your own biological raw material, design your
-      individual bio-based product and make IT.
+      Hence, our answer was to design a place that offers an interactive
+      environment and supports creativity & collaboration for actively framing a
+      sustainable future within a bio based society. So we upgraded our
+      machBar-Potsdam (fabLab) in Oct. 2018, with open bio-lab facilities, to
+      cultivate organisms and grow own biological raw material, design bio-based
+      ideas and build prototypes. 
 
 
-      Our facilities are embedded into the community of a self-governed
-      sozio-cultural youth center, called freiLand-Potsdam. Here cooperates more
-      than 50 active stakeholder, which mission it is to empower young people to
-      design a sustainable future.
+      Our DIY bio-facilities @machBar are embedded into the community of a
+      self-governed cultural center; freiLand-Potsdam. Here are acting more than
+      50 stakeholder on an areal of 12 000 square meters and 5 buildings, which
+      mission it is to empower young people to form a sustainable future.
 
 
-
-       combining local expertise and global networks in a creative environment 
-
-
-
-      Community
-
-
-      machbar 
-
-
-      WP 
-
-
-      Freiland 
-
-
-      Potsdam
-
-
-
-
-      Story
-
-
-      opening 13.10.2018
-
-
-      DiReBio
-
-
-      Funded by BMBF
-
-
-
-
-
-
-
-
-
-
-
-
+      The NGO Science Shop Potsdam funded the machBar Potsdam fabLab in 2012
+      @freiLand and is since then legally responsible for it. In addition the
+      Science Shop acts as local network HUB for the freiLand community to
+      regional partner in academia, tech, arts & economy (SME) as well as global
+      networks for open science, open education & open innovation. Within a
+      research project to regional strategies for bio based economy (DiReBio)
+      funded by the German Ministry for Education and Science (BMBF), the
+      Science Shop Potsdam is partner with University Potsdam and Leibniz
+      Institute for Agricultural Engineering and Bioeconomy. Here we utilize the
+      bio-lab facilities to include kids and young people in a future designing
+      session to a regional bio-based economy.
 
 
       Follow us
