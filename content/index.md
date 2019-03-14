@@ -56,16 +56,17 @@ sections:
       Hence, our answer was to design a place that offers an interactive
       environment and supports creativity & collaboration for actively framing a
       sustainable future within a bio based society. So we upgraded our
-      machBar-Potsdam (fabLab) in Oct. 2018, with open bio-lab facilities, to
-      cultivate organisms and grow own biological raw material, design bio-based
-      ideas and build prototypes. 
+      [machBar-Potsdam (fabLab)](https://machbar-potsdam.de/) in Oct. 2018, with
+      open bio-lab facilities, to cultivate organisms and grow own biological
+      raw material, design bio-based ideas and build prototypes. 
 
 
       Our DIY bio-facilities @machBar are embedded into the community of a
-      self-governed cultural center; freiLand-Potsdam. Here are acting more than
-      50 stakeholder on an areal of 12 000 square meters and 5 buildings, which
-      mission it is to empower young people to actively form a sustainable
-      future.
+      self-governed cultural center;
+      [freiLand-Potsdam](https://www.freiland-potsdam.de/#). Here are acting
+      more than 50 stakeholder on an areal of 12 000 square meters and 5
+      buildings, which mission it is to empower young people to actively form a
+      sustainable future.
 
 
       The NGO Science Shop Potsdam funded the machBar Potsdam fabLab in 2012
@@ -73,12 +74,13 @@ sections:
       Science Shop acts as local network HUB for the freiLand community to
       regional partner in academia, tech, arts & economy (SME) as well as global
       networks for open science, open education & open innovation. Within a
-      research project to regional strategies for bio based economy (DiReBio)
-      funded by the German Ministry for Education and Science (BMBF), the
-      Science Shop Potsdam is partner with the University Potsdam and Leibniz
-      Institute for Agricultural Engineering and Bioeconomy. Here we utilize the
-      bio-lab facilities to include kids and young people in a future designing
-      session for a regional bio-based economy.
+      research project to regional strategies for bio based economy
+      ([DiReBio](https://direbio.de/)) funded by the German Ministry for
+      Education and Science (BMBF), the Science Shop Potsdam is partner with the
+      University Potsdam and Leibniz Institute for Agricultural Engineering and
+      Bioeconomy. Here we utilize the bio-lab facilities to include kids and
+      young people in a future designing session for a regional bio-based
+      economy.
 
 
       Follow us
