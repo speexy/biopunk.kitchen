@@ -9,13 +9,13 @@ sections:
       label: More about us
       url: /about
     text: >-
-      Here you have space and tools for experimentation & design bio-based
+      Here you have space and tools for experimentation & for designing bio-based
       prototypes for a sustainable future. Accomplish your own ideas or
-      cooperate with scientist, artist, activists, geeks or other enthusiasts,
-      arround. As part of the machBar-Potsdam facilities you can combine here
-      biodesign tools, from molecular workbenches to urban gardening systems,
-      with digital prototyping tools, usual in fab labs available. Explore,
-      Grow, Make
+      cooperate with scientist, artist, activists, geeks and other enthusiasts,
+      arround. As part of the machBar-Potsdam facilities you can combine
+      biodesign tools from molecular workbenches to urban gardening systems,
+      with digital prototyping tools, typically available in fab labs. #Explore,
+      #Grow, #Make
     title: kitchen
   - color: blue
     image: /media/microscopes.jpg
@@ -46,25 +46,24 @@ sections:
       url: 'http://eepurl.com/dJvaA6'
     text: >-
       From years of experiences in facilitating our community to face urgent
-      issues of the time, concerning it, we realized it is needed something new.
-      Is it climate change, the loss of biodiversity, chances and risks of new
-      technologies & digitization, health & food or equality, the understanding
-      of living systems and their interaction with our surroundings became more
-      and more important. 
+      issues of the time, concerning it, we realized something new is needed.
+      Climate change, the loss of biodiversity, chances and risks of new
+      technologies & digitization, health & food, equality - for all these the understanding
+      of living systems and their interaction with our surroundings become more
+      and more important.
 
 
-      Hence, our answer was to design a place that offers an interactive
+      Hence, our answer is to design a place that offers an interactive
       environment and supports creativity & collaboration for actively framing a
-      sustainable future within a bio based society. So we upgraded our
-      [machBar-Potsdam (fabLab)](https://machbar-potsdam.de/) in Oct. 2018, with
-      open bio-lab facilities, to cultivate organisms and grow own biological
-      raw material, design bio-based ideas and build prototypes. 
+      sustainable future within a bio-based society. We upgraded our
+      [machBar-Potsdam (fabLab)](https://machbar-potsdam.de/) in Oct. 2018 with
+      open bio-lab facilities to cultivate organisms and grow own biological
+      raw material, design bio-based ideas and build prototypes.
 
 
       Our DIY bio-facilities @machBar are embedded into the community of a
       self-governed cultural center;
-      [freiLand-Potsdam](https://www.freiland-potsdam.de/#). Here are acting
-      more than 50 stakeholder on an areal of 12 000 square meters and 5
+      [freiLand-Potsdam](https://www.freiland-potsdam.de/#). Here more than 50 stakeholder are acting on an areal of 12 000 square meters and 5
       buildings, which mission it is to empower young people to actively form a
       sustainable future.
 
@@ -86,4 +85,3 @@ sections:
       Follow us
     title: Community
 ---
-
