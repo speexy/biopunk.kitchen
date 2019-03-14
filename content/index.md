@@ -9,13 +9,13 @@ sections:
       label: More about us
       url: /about
     text: >-
-      Here you have space and tools for experimentation & for designing bio-based
+      Here you will find the space and tools for experimentation & for designing bio-based
       prototypes for a sustainable future. Accomplish your own ideas or
       cooperate with scientist, artist, activists, geeks and other enthusiasts,
       arround. As part of the machBar-Potsdam facilities you can combine
       biodesign tools from molecular workbenches to urban gardening systems,
-      with digital prototyping tools, typically available in fab labs. #Explore,
-      #Grow, #Make
+      with digital prototyping tools typically available in fab labs. #Explore!,
+      #Grow!, #Make!
     title: kitchen
   - color: blue
     image: /media/microscopes.jpg
@@ -36,8 +36,8 @@ sections:
       label: All Projects
       url: /projects
     text: >-
-      You can build your own project, but look here what variety of actions
-      already exists. The range is from growing fungi and insects over
+      You can build your own project, but a variety of active groups
+      already exists. These range from growing fungi and insects to
       fermentation to aquaponic gardening and digital beekeeping.
     title: projects
   - color: darkBlue
@@ -58,24 +58,24 @@ sections:
       Hence, our answer is to design a place that offers an interactive
       environment and supports creativity & collaboration for actively framing a
       sustainable future within a bio-based society. We upgraded our
-      [machBar-Potsdam (fabLab)](https://machbar-potsdam.de/) in Oct. 2018 with
+      [machBar-Potsdam](https://machbar-potsdam.de/) (fabLab) in Oct. 2018 with
       open bio-lab facilities to cultivate organisms and grow own biological
       raw material, design bio-based ideas and build prototypes.
 
 
-      Our DIY bio-facilities @machBar are embedded into the community of a
+      Our DIY bio-facilities @machBar are embedded in the community of a
       self-governed cultural center;
       [freiLand-Potsdam](https://www.freiland-potsdam.de/#). Here more than 50 stakeholder are acting on an areal of 12 000 square meters and 5
-      buildings, which mission it is to empower young people to actively form a
+      buildings, whose mission it is to empower young people to actively create a
       sustainable future.
 
 
       The NGO Science Shop Potsdam funded the machBar Potsdam fabLab in 2012
-      @freiLand and is since then legally responsible for it. In addition the
-      Science Shop acts as local network HUB for the freiLand community to
-      regional partner in academia, tech, arts & economy (SME) as well as global
+      @freiLand and is since the legally responsible entity. In addition the
+      Science Shop acts as a local network HUB for the freiLand community to
+      regional partners in academia, tech, arts & economy (SME) as well as global
       networks for open science, open education & open innovation. Within a
-      research project to regional strategies for bio based economy
+      research project to regional strategies for bio-based economy
       ([DiReBio](https://direbio.de/)) funded by the German Ministry for
       Education and Science (BMBF), the Science Shop Potsdam is partner with the
       University Potsdam and Leibniz Institute for Agricultural Engineering and
