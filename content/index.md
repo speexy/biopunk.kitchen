@@ -24,9 +24,10 @@ sections:
       label: All our Equipment
       url: /equipment
     text: >-
-      Jack Tar Spanish Main heave to galleon dead men tell no tales salmagundi
-      run a rig Plate Fleet rum port. Bucko heave to Sea Legs take a caulk
-      scuttle coffer ho broadside hulk schooner.
+      The bioPUNK.kitchen is a 30m² studio with basic kitchen equipment from a
+      grinder to a micro-wave combined with specific biology lab tools, like a
+      DNA workbench, digital Microscopes or biological cultivation facilities
+      for indoor and outdoor.
     title: equipment
   - color: orange
     image: /media/kitchen.jpg
