@@ -1,14 +1,11 @@
 @value variables: "../layouts/variables.css";
-@value gradientGrey, padding from variables;
+@value gradientGrey, padding, breakTablet from variables;
 
 
 .footer {
   width: 100%;
 }
 
-.footer a {
-    color: white;
-}
 
 .footer > a {
   display: block;
@@ -19,7 +16,18 @@
   height: 600px;
 }
 
+.footer p {
+  color: white;
+}
+
 .footer div {
   background: gradientGrey;
   padding: padding;
+  text-align: center;
+}
+@media (max-width: breakTablet) {
+  .footer div {
+    padding-bottom: 120px;
+    font-size: 11px;
+  }
 }
