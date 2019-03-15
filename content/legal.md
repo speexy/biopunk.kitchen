@@ -41,8 +41,7 @@ Sie müssen dazu nur das untenstehenden Kästchen anklicken, um den Haken zu ent
 Widerspruch
 
 Quellen
-e-Recht24.de [@@@ e-Recht24.de @@@]
-
+[e-Recht24.de](e-Recht24.de)
 
 # Datenschutz & Datenschutzerklärung
 
@@ -53,7 +52,7 @@ Dieses Internetangebot wird veröffentlicht von Wissenschaftsladen Potsdam e.V.
 Friedrich-Engels-Straße 22 | Haus 1 freiLand Potsdam | D-14469 Potsdam.
 Inhaltlich verantwortlich: Björn Huwe
 E-mail: info |at| wissenschaftsladen-potsdam |dot| de
-Link zu Impressum [@@@ link impressum @@@]
+Link zu Impressum \[@@@ link impressum @@@]
 
 Arten der verarbeiteten Daten:
 
@@ -64,7 +63,7 @@ Arten der verarbeiteten Daten:
 – Meta-/Kommunikationsdaten (z.B., Geräte-Informationen, IP-Adressen).
 Kategorien betroffener Personen
 
-Besucher*innen und Nutzer*innen des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer*innen“).
+Besucher_innen und Nutzer_innen des Onlineangebotes (Nachfolgend bezeichnen wir die betroffenen Personen zusammenfassend auch als „Nutzer*innen“).
 Zweck der Verarbeitung
 
 – Zurverfügungstellung des Onlineangebotes, seiner Funktionen und Inhalte.
@@ -94,7 +93,7 @@ Wir treffen nach Maßgabe des Art. 32 DSGVO unter Berücksichtigung des Stands d
 Zu den Maßnahmen gehören insbesondere die Sicherung der Vertraulichkeit, Integrität und Verfügbarkeit von Daten durch Kontrolle des physischen Zugangs zu den Daten, als auch des sie betreffenden Zugriffs, der Eingabe, Weitergabe, der Sicherung der Verfügbarkeit und ihrer Trennung. Des Weiteren haben wir Verfahren eingerichtet, die eine Wahrnehmung von Betroffenenrechten, Löschung von Daten und Reaktion auf Gefährdung der Daten gewährleisen. Ferner berücksichtigen wir den Schutz personenbezogener Daten bereits bei der Entwicklung, bzw. Auswahl von Hardware, Software sowie Verfahren, entsprechend dem Prinzip des Datenschutzes durch Technikgestaltung und durch datenschutzfreundliche Voreinstellungen berücksichtigt (Art. 25 DSGVO).
 Zusammenarbeit mit Auftragsverarbeiter*innen und Dritten
 
-Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeiter*innen oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister*innen, gem. Art. 6 Abs. 1 lit. b DSGVO zur Vertragserfüllung erforderlich ist), Sie eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhoster*innen etc.).
+Sofern wir im Rahmen unserer Verarbeitung Daten gegenüber anderen Personen und Unternehmen (Auftragsverarbeiter_innen oder Dritten) offenbaren, sie an diese übermitteln oder ihnen sonst Zugriff auf die Daten gewähren, erfolgt dies nur auf Grundlage einer gesetzlichen Erlaubnis (z.B. wenn eine Übermittlung der Daten an Dritte, wie an Zahlungsdienstleister_innen, gem. Art. 6 Abs. 1 lit. b DSGVO zur Vertragserfüllung erforderlich ist), Sie eingewilligt haben, eine rechtliche Verpflichtung dies vorsieht oder auf Grundlage unserer berechtigten Interessen (z.B. beim Einsatz von Beauftragten, Webhoster*innen etc.).
 
 Sofern wir Dritte mit der Verarbeitung von Daten auf Grundlage eines sog. „Auftragsverarbeitungsvertrages“ beauftragen, geschieht dies auf Grundlage des Art. 28 DSGVO.
 Übermittlungen in Drittländer
@@ -119,13 +118,13 @@ Widerspruchsrecht
 Sie können der künftigen Verarbeitung der Sie betreffenden Daten nach Maßgabe des Art. 21 DSGVO jederzeit widersprechen. Der Widerspruch kann insbesondere gegen die Verarbeitung für Zwecke der Direktwerbung erfolgen.
 Cookies und Widerspruchsrecht bei Direktwerbung
 
-Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem/einer Nutzer*in (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem/ihrem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies bzw. „Session-Cookies“ oder „transiente Cookies“ werden Cookies bezeichnet, die gelöscht werden, nachdem ein*e Nutzer*in ein Onlineangebot verlässt und seinen/ihren Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Staus gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer*innen diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer*innen gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbieter*innenn als dem/der Verantwortlichen, der/die das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).
+Als „Cookies“ werden kleine Dateien bezeichnet, die auf Rechnern der Nutzer gespeichert werden. Innerhalb der Cookies können unterschiedliche Angaben gespeichert werden. Ein Cookie dient primär dazu, die Angaben zu einem/einer Nutzer_in (bzw. dem Gerät auf dem das Cookie gespeichert ist) während oder auch nach seinem/ihrem Besuch innerhalb eines Onlineangebotes zu speichern. Als temporäre Cookies bzw. „Session-Cookies“ oder „transiente Cookies“ werden Cookies bezeichnet, die gelöscht werden, nachdem ein_e Nutzer_in ein Onlineangebot verlässt und seinen/ihren Browser schließt. In einem solchen Cookie kann z.B. der Inhalt eines Warenkorbs in einem Onlineshop oder ein Login-Staus gespeichert werden. Als „permanent“ oder „persistent“ werden Cookies bezeichnet, die auch nach dem Schließen des Browsers gespeichert bleiben. So kann z.B. der Login-Status gespeichert werden, wenn die Nutzer_innen diese nach mehreren Tagen aufsuchen. Ebenso können in einem solchen Cookie die Interessen der Nutzer_innen gespeichert werden, die für Reichweitenmessung oder Marketingzwecke verwendet werden. Als „Third-Party-Cookie“ werden Cookies bezeichnet, die von anderen Anbieter_innenn als dem/der Verantwortlichen, der/die das Onlineangebot betreibt, angeboten werden (andernfalls, wenn es nur dessen Cookies sind spricht man von „First-Party Cookies“).
 
 Wir können temporäre und permanente Cookies einsetzen und klären hierüber im Rahmen unserer Datenschutzerklärung auf.
 
 Falls die Nutzer*innen nicht möchten, dass Cookies auf ihrem Rechner gespeichert werden, werden sie gebeten, die entsprechende Option in den Systemeinstellungen ihres Browsers zu deaktivieren. Gespeicherte Cookies können in den Systemeinstellungen des Browsers gelöscht werden. Der Ausschluss von Cookies kann zu Funktionseinschränkungen dieses Onlineangebotes führen.
 
-Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ [@@@ http://www.aboutads.info/choices/ @@@] oder die EU-Seite http://www.youronlinechoices.com/ [@@@ http://www.youronlinechoices.com/ @@@] erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.
+Ein genereller Widerspruch gegen den Einsatz der zu Zwecken des Onlinemarketing eingesetzten Cookies kann bei einer Vielzahl der Dienste, vor allem im Fall des Trackings, über die US-amerikanische Seite http://www.aboutads.info/choices/ \[@@@ http://www.aboutads.info/choices/ @@@] oder die EU-Seite http://www.youronlinechoices.com/ \[@@@ http://www.youronlinechoices.com/ @@@] erklärt werden. Des Weiteren kann die Speicherung von Cookies mittels deren Abschaltung in den Einstellungen des Browsers erreicht werden. Bitte beachten Sie, dass dann gegebenenfalls nicht alle Funktionen dieses Onlineangebotes genutzt werden können.
 Löschung von Daten
 
 Die von uns verarbeiteten Daten werden nach Maßgabe der Art. 17 und 18 DSGVO gelöscht oder in ihrer Verarbeitung eingeschränkt. Sofern nicht im Rahmen dieser Datenschutzerklärung ausdrücklich angegeben, werden die bei uns gespeicherten Daten gelöscht, sobald sie für ihre Zweckbestimmung nicht mehr erforderlich sind und der Löschung keine gesetzlichen Aufbewahrungspflichten entgegenstehen. Sofern die Daten nicht gelöscht werden, weil sie für andere und gesetzlich zulässige Zwecke erforderlich sind, wird deren Verarbeitung eingeschränkt. D.h. die Daten werden gesperrt und nicht für andere Zwecke verarbeitet. Das gilt z.B. für Daten, die aus handels- oder steuerrechtlichen Gründen aufbewahrt werden müssen.
@@ -142,7 +141,7 @@ Hosting
 
 Die von uns in Anspruch genommenen Hosting-Leistungen dienen der Zurverfügungstellung der folgenden Leistungen: Infrastruktur- und Plattformdienstleistungen, Rechenkapazität, Speicherplatz und Datenbankdienste, Sicherheitsleistungen sowie technische Wartungsleistungen, die wir zum Zwecke des Betriebs dieses Onlineangebotes einsetzen.
 
-Hierbei verarbeiten wir bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kund*innen, Interessent*innen und Besucher*innen dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
+Hierbei verarbeiten wir bzw. unser Hostinganbieter Bestandsdaten, Kontaktdaten, Inhaltsdaten, Vertragsdaten, Nutzungsdaten, Meta- und Kommunikationsdaten von Kund_innen, Interessent_innen und Besucher*innen dieses Onlineangebotes auf Grundlage unserer berechtigten Interessen an einer effizienten und sicheren Zurverfügungstellung dieses Onlineangebotes gem. Art. 6 Abs. 1 lit. f DSGVO i.V.m. Art. 28 DSGVO (Abschluss Auftragsverarbeitungsvertrag).
 Erhebung von Zugriffsdaten und Logfiles
 
 Wir bzw. unser Hostinganbieter erheben auf Grundlage unserer berechtigten Interessen im Sinne des Art. 6 Abs. 1 lit. f. DSGVO Daten über jeden Zugriff auf den Server, auf dem sich dieser Dienst befindet (sogenannte Serverlogfiles). Zu den Zugriffsdaten gehören Name der abgerufenen Webseite, Datei, Datum und Uhrzeit des Abrufs, übertragene Datenmenge, Meldung über erfolgreichen Abruf, Browsertyp nebst Version, das Betriebssystem des/der Nutzers/Nutzerin, Referrer URL (die zuvor besuchte Seite), IP-Adresse und der anfragende Provider.
@@ -150,18 +149,18 @@ Wir bzw. unser Hostinganbieter erheben auf Grundlage unserer berechtigten Intere
 Logfile-Informationen werden aus Sicherheitsgründen (z.B. zur Aufklärung von Missbrauchs- oder Betrugshandlungen) für die Dauer von maximal 7 Tagen gespeichert und danach gelöscht. Daten, deren weitere Aufbewahrung zu Beweiszwecken erforderlich ist, sind bis zur endgültigen Klärung des jeweiligen Vorfalls von der Löschung ausgenommen.
 Onlinepräsenzen in sozialen Medien
 
-Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kund*innen, Interessent*innen und Nutzer*innen kommunizieren und sie dort über unsere Leistungen informieren zu können. Beim Aufruf der jeweiligen Netzwerke und Plattformen gelten die Geschäftsbedingungen und die Datenverarbeitungsrichtlinien deren jeweiligen Betreiber*innen.
+Wir unterhalten Onlinepräsenzen innerhalb sozialer Netzwerke und Plattformen, um mit den dort aktiven Kund_innen, Interessent_innen und Nutzer_innen kommunizieren und sie dort über unsere Leistungen informieren zu können. Beim Aufruf der jeweiligen Netzwerke und Plattformen gelten die Geschäftsbedingungen und die Datenverarbeitungsrichtlinien deren jeweiligen Betreiber_innen.
 
 Soweit nicht anders im Rahmen unserer Datenschutzerklärung angegeben, verarbeiten wir die Daten der Nutzer*innen, sofern diese mit uns innerhalb der sozialen Netzwerke und Plattformen kommunizieren, z.B. Beiträge auf unseren Onlinepräsenzen verfassen oder uns Nachrichten zusenden.
 Einbindung von Diensten und Inhalten Dritter
 
 Wir setzen innerhalb unseres Onlineangebotes auf Grundlage unserer berechtigten Interessen (d.h. Interesse an der Analyse, Optimierung und wirtschaftlichem Betrieb unseres Onlineangebotes im Sinne des Art. 6 Abs. 1 lit. f. DSGVO) Inhalts- oder Serviceangebote von Drittanbietern ein, um deren Inhalte und Services, wie z.B. Videos oder Schriftarten einzubinden (nachfolgend einheitlich bezeichnet als “Inhalte”).
 
-Dies setzt immer voraus, dass die Drittanbieter*innen dieser Inhalte, die IP-Adresse der Nutze*innen wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter*innen die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter*innen können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als „Web Beacons“ bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die „Pixel-Tags“ können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer*innen gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
+Dies setzt immer voraus, dass die Drittanbieter_innen dieser Inhalte, die IP-Adresse der Nutze_innen wahrnehmen, da sie ohne die IP-Adresse die Inhalte nicht an deren Browser senden könnten. Die IP-Adresse ist damit für die Darstellung dieser Inhalte erforderlich. Wir bemühen uns nur solche Inhalte zu verwenden, deren jeweilige Anbieter_innen die IP-Adresse lediglich zur Auslieferung der Inhalte verwenden. Drittanbieter_innen können ferner so genannte Pixel-Tags (unsichtbare Grafiken, auch als „Web Beacons“ bezeichnet) für statistische oder Marketingzwecke verwenden. Durch die „Pixel-Tags“ können Informationen, wie der Besucherverkehr auf den Seiten dieser Website ausgewertet werden. Die pseudonymen Informationen können ferner in Cookies auf dem Gerät der Nutzer*innen gespeichert werden und unter anderem technische Informationen zum Browser und Betriebssystem, verweisende Webseiten, Besuchszeit sowie weitere Angaben zur Nutzung unseres Onlineangebotes enthalten, als auch mit solchen Informationen aus anderen Quellen verbunden werden.
 Youtube
 
-Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: https://www.google.com/policies/privacy/ [@@@ https://www.google.com/policies/privacy/ @@@], Opt-Out: https://adssettings.google.com/ authenticated [@@@ https://adssettings.google.com/ @@@].
+Wir binden die Videos der Plattform “YouTube” des Anbieters Google LLC, 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA, ein. Datenschutzerklärung: <https://www.google.com/policies/privacy/>, Opt-Out: [https://adssettings.google.com/authenticated](https://adssettings.google.com/)
 
 Von Websiteinhaberin angepasst (Änderungen des generischen Maskulinums)
 
-Erstellt mit Datenschutz-Generator.de [@@@https://datenschutz-generator.de/@@@] von RA Dr. Thomas Schwenke
+Erstellt mit [Datenschutz-Generator.de](https://datenschutz-generator.de) von RA Dr. Thomas Schwenke
